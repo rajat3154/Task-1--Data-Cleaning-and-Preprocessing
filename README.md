@@ -58,13 +58,4 @@ After cleaning, the dataset was saved as `cleaned_sales_data.csv` for further an
 - **cleaned_sales_data.csv**: Cleaned and preprocessed dataset.
 - **sales_data_cleaning_notebook.ipynb**: Jupyter notebook that contains the entire cleaning and preprocessing process.
 
-## Requirements
 
-The following libraries are required to run the notebook:
-
-- `pandas`
-
-You can install the necessary libraries by running:
-
-```bash
-pip install -r requirements.txt
