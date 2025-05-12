@@ -1,0 +1,10 @@
+Summary of Changes
+Dropped unnecessary columns: phone, postal, etc.
+Filled null state values with mode.
+Dropped rows with null customer names.
+Removed duplicates.
+Standardized text format (lowercase).
+Converted date column to datetime.
+Renamed columns to lowercase with underscores.
+Fixed numeric columns.
+Removed outliers from quantityordered.
